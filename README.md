@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
+   	<h1 align="center">Hi, I'm Giselle!😄</h1>
+</div>
 
-<!--
-**Giselle276/Giselle276** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<div align="center">
 
-Here are some ideas to get you started:
+👨‍💻 I’m a student at 42 Madrid, currently working through the Common Core curriculum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 I’m interested in data analysis and AI, but I'm also open to exploring other fields and opportunities.
+
+
+<br>
+<div align=center>
+	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/gmaccha-" alt="gmaccha 42 stats" /></a>
+</div>
+
+![](https://github-readme-stats.vercel.app/api?username=giselle276&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=giselle276&theme=omni&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=giselle276&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
