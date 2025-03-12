@@ -9,7 +9,7 @@
 
 📊 I’m interested in data analysis and AI, but I'm also open to exploring other fields and opportunities.
 
-
+[You can see my progress in 42 Madrid here 🚀](https://github.com/Giselle276/Cursus42)
 <br>
 <div align=center>
 	<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/gmaccha-" alt="gmaccha 42 stats" /></a>
