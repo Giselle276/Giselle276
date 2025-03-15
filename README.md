@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
 	
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/giselle-maccha) 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giselle-maccha) 
 <br>
 <div align="center">
 
