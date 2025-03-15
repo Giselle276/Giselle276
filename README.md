@@ -2,9 +2,8 @@
    	<h1 align="center">Hi, I'm Giselle!😄</h1>
 </div>
 <div id="badges" align="center">
-  
+	
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/giselle-maccha-2041aa317) 
-
 <br>
 <div align="center">
 
