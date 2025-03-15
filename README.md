@@ -1,13 +1,16 @@
 <div align="center">
    	<h1 align="center">Hi, I'm Giselle!😄</h1>
 </div>
+<div id="badges" align="center">
+  
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/giselle-maccha-2041aa317) 
 
 <br>
 <div align="center">
 
 👨‍💻 I’m a student at 42 Madrid, currently working through the Common Core curriculum.
 
-📊 I’m interested in data analysis and AI, but I'm also open to exploring other fields and opportunities.
+📊 I’m interested in data analysis, but I'm also open to exploring other fields and opportunities.
 
 [You can see my progress in 42 Madrid here 🚀](https://github.com/Giselle276/Cursus42)
 <br>
