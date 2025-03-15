@@ -1,6 +1,10 @@
 <div align="center">
-   	<h1 align="center">Hi, I'm Giselle!😄</h1>
+   	
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff69b4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Giselle;I+study+programing+at+42+Madrid;Be+Welcome!)
+
 </div>
+
 <div id="badges" align="center">
 	
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giselle-maccha) 
