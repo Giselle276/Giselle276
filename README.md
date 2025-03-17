@@ -16,6 +16,7 @@
 📊 I’m interested in data analysis, but I'm also open to exploring other fields and opportunities.
 
 [You can see my progress in 42 Madrid here 🚀](https://github.com/Giselle276/Cursus42)
+
 <br>
 
 
