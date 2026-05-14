@@ -13,7 +13,7 @@
 
 👨‍💻 I’m a student at 42 Madrid, currently working through the Common Core curriculum.
 
-📊 I’m interested in data analysis, but I'm also open to exploring other fields and opportunities.
+📊 Junior Web Developer | HTML · CSS · JavaScript · PHP · SQL · Advanced Excel | Experience in the Insurance Sector
 
 [You can see my progress in 42 Madrid here 🚀](https://github.com/Giselle276/Cursus42)
 
